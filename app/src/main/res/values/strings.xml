@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ResepKue</string>
+    <string name="kue_name">Nama Kue</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="kue_bahan">Bahan-bahan:</string>
+    <string name="kue_cara">Cara membuat:</string>
+    <string name="bahan">Bahan:</string>
+    <string name="cara_membuat">Cara Membuat:</string>
+
+    //resep kue //
+
+
+</resources>
